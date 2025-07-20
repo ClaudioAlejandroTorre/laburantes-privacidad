@@ -36,6 +36,7 @@ Para utilizar Laburantes, usted declara tener al menos 18 años. No está permit
    -El uso del sitio implica la aceptación de los cambios.
    -"Laburantes" se reserva el derecho de suspender el servicio o eliminar usuarios que infrinjan
      estos términos.
+   - Los usuarios pueden solicitar la eliminación de sus datos.	
 
 7. Privacidad
    -El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
