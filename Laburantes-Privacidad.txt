@@ -36,11 +36,13 @@ Para utilizar Laburantes, usted declara tener al menos 18 años. No está permit
    -El uso del sitio implica la aceptación de los cambios.
    -"Laburantes" se reserva el derecho de suspender el servicio o eliminar usuarios que infrinjan
      estos términos.
-   - Los usuarios pueden solicitar la eliminación de sus datos.	
-
+   
 7. Privacidad
    -El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
     Laburantes a procesar sus datos de acuerdo con esa política.
+   - Los usuarios pueden solicitar la eliminación de sus datos.	
+   - La ubicación se usa para mejorar la búsqueda y no se transfiere a terceros ajenos ni se usa
+     para otros fines.
 
 8. Jurisdicción
    -Estos Términos y Condiciones se rigen por las leyes de la República Argentina. Ante
