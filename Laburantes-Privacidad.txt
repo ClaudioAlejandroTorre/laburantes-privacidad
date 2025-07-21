@@ -41,8 +41,8 @@ Para utilizar Laburantes, usted declara tener al menos 18 años.
    -El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
      Laburantes a procesar sus datos de acuerdo con esta política.
    - Los usuarios pueden solicitar la eliminación de sus datos a soporte.laburantes@gmail.com	
-   - La ubicación geográfica determinada mediante coordenadas geoespaciales (latitud y longitud), 
-     obtenidas por el receptor GPS del  dispositivo. se usa para mejorar la búsqueda y no se transfiere 
+   - La ubicación geográfica del usuario, determinada mediante coordenadas geoespaciales (latitud y longitud), 
+     obtenidas por el receptor GPS del dispositivo, se usa solo para mejorar la búsqueda y no se transfiere 
      a terceros ajenos ni se usa para otros fines.
 
 8. Jurisdicción
