@@ -6,7 +6,7 @@ No es responsable de los cobros y pagos que se hagan entre las partes, ni por la
 La política de uso y privacidad de datos queda supeditada a las siguientes cláusulas:
 
 1. Edad mínima
-Para utilizar Laburantes, usted declara tener al menos 18 años. No está permitida la inscripción ni el uso del servicio por parte de menores de edad.
+Para utilizar Laburantes, usted declara tener al menos 18 años. 
 
 2. Registro y uso responsable. Al registrarse, usted se compromete a:
    - Brindar información veraz, actual y completa.
@@ -39,10 +39,11 @@ Para utilizar Laburantes, usted declara tener al menos 18 años. No está permit
    
 7. Privacidad
    -El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
-    Laburantes a procesar sus datos de acuerdo con esa política.
-   - Los usuarios pueden solicitar la eliminación de sus datos.	
-   - La ubicación se usa para mejorar la búsqueda y no se transfiere a terceros ajenos ni se usa
-     para otros fines.
+     Laburantes a procesar sus datos de acuerdo con esta política.
+   - Los usuarios pueden solicitar la eliminación de sus datos a soporte.laburantes@gmail.com.	
+   - La ubicación geográfica determinada mediante coordenadas geoespaciales (latitud y longitud), 
+     obtenidas por el receptor GPS del  dispositivo. se usa para mejorar la búsqueda y no se transfiere 
+     a terceros ajenos ni se usa para otros fines.
 
 8. Jurisdicción
    -Estos Términos y Condiciones se rigen por las leyes de la República Argentina. Ante
